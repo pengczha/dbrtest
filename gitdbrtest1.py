@@ -2,7 +2,7 @@
 spark.conf.set("fs.azure.account.auth.type.gen2pc1.dfs.core.windows.net", "OAuth")
 spark.conf.set("fs.azure.account.oauth.provider.type.gen2pc1.dfs.core.windows.net", "org.apache.hadoop.fs.azurebfs.oauth2.ClientCredsTokenProvider")
 spark.conf.set("fs.azure.account.oauth2.client.id.gen2pc1.dfs.core.windows.net", "ea2dd659-9fe3-4741-af41-a55d58d4ca57")
-spark.conf.set("fs.azure.account.oauth2.client.secret.gen2pc1.dfs.core.windows.net", "bx88Q~sdhTvq_pV0NfGQ8JdhNKyrDQsj3iMaob6k" )
+spark.conf.set("fs.azure.account.oauth2.client.secret.gen2pc1.dfs.core.windows.net", "............" )
 spark.conf.set("fs.azure.account.oauth2.client.endpoint.gen2pc1.dfs.core.windows.net", "https://login.microsoftonline.com/72f988bf-86f1-41af-91ab-2d7cd011db47/oauth2/token")
 
 # COMMAND ----------
@@ -10,7 +10,7 @@ spark.conf.set("fs.azure.account.oauth2.client.endpoint.gen2pc1.dfs.core.windows
 spark.conf.set("fs.azure.account.auth.type.gen2pc1.dfs.core.windows.net", "OAuth")
 spark.conf.set("fs.azure.account.oauth.provider.type.gen2pc1.dfs.core.windows.net", "org.apache.hadoop.fs.azurebfs.oauth2.ClientCredsTokenProvider")
 spark.conf.set("fs.azure.account.oauth2.client.id.gen2pc1.dfs.core.windows.net", "ea2dd659-9fe3-4741-af41-a55d58d4ca57")
-spark.conf.set("fs.azure.account.oauth2.client.secret.gen2pc1.dfs.core.windows.net", "bx88Q~sdhTvq_KyrDQsj3iMaob6k" )
+spark.conf.set("fs.azure.account.oauth2.client.secret.gen2pc1.dfs.core.windows.net", "..................." )
 spark.conf.set("fs.azure.account.oauth2.client.endpoint.gen2pc1.dfs.core.windows.net", "https://login.microsoftonline.com/72f988bf-86f1-41af-91ab-2d7cd011db47/oauth2/token")
 
 # COMMAND ----------
